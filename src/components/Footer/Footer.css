@@ -1,0 +1,25 @@
+.footer{
+    color: white;
+    margin-left: -38px;
+    height: 280px;
+    background-color: #000;
+}
+.footer ul{
+    font-size:14px;
+    list-style-type: none;
+}
+.footer .copyright ul{
+    display: flex;
+    list-style-type: none;
+    font-size:15px;
+}
+.footer .copyright ul li{
+    
+  margin-left: 80px;
+}
+.footer a{
+    color:white;    
+}
+.bg-img-color{
+    filter: brightness(600%);
+}

@@ -1,0 +1,24 @@
+.search-bg-color{
+    min-height: 760Px;;
+    background-color: white;
+}
+.search-img{
+    height: 180px;
+    border-radius: 5px;
+    width:270px;
+}
+.line-height{
+    line-height:0px;
+}
+.font{
+    font-family: 'Montserrat';
+}
+.checked{
+    color: orange;
+}
+.map-border{
+    border:1px solid gray;
+    border-radius: 15px;
+    height:90% !important;
+    overflow: hidden !important;
+}
